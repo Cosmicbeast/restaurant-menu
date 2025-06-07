@@ -1,0 +1,178 @@
+/* General Body and Font Styles */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fdfdfd;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+/* Header and Footer Styles */
+header {
+  background-color: #b71c1c;
+  color: #fff;
+  padding: 1.5rem 2rem;
+  text-align: center;
+  border-bottom: 5px solid #8e1616;
+}
+header h1 {
+  margin: 0;
+}
+footer {
+  text-align: center;
+  background: #333;
+  color: #fff;
+  padding: 1rem;
+  font-size: 0.9rem;
+  margin-top: 2rem;
+}
+/* Main Menu Layout (index.html) */
+.menu-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.menu-section {
+  padding: 1.5rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+.menu-section h2 {
+  border-left: 8px solid #b71c1c;
+  padding-left: 12px;
+  margin-top: 0;
+  margin-bottom: 2rem;
+  color: #444;
+}
+/* Rectangular Box for Dish Categories */
+.dish-category {
+  background-color: #f9f9f9;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.dish-category h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: #b71c1c;
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 0.5rem;
+}
+.dish-category ul {
+  list-style: none;
+  padding-left: 0;
+}
+.dish-category li {
+  margin-bottom: 0.5rem;
+  padding-left: 1rem;
+  position: relative;
+}
+.dish-category li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #b71c1c;
+  font-weight: bold;
+}
+/* Order and Checkout Page Styles */
+.content-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+.order-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding: 0.8rem;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    border: 1px solid #eee;
+}
+.order-list label {
+    cursor: pointer;
+}
+.item-price {
+    color: #555;
+    font-weight: bold;
+    margin-left: 1rem;
+}
+/* Form Styles (checkout.html) */
+.form-group {
+    margin-bottom: 1.25rem;
+}
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 1rem;
+}
+.form-group textarea {
+    height: 150px;
+    resize: vertical;
+}
+.instructions {
+    background-color: #fff3cd;
+    border-left: 5px solid #ffeeba;
+    color: #856404;
+    padding: 1rem;
+    border-radius: 4px;
+    margin: 2rem 0;
+}
+/* Button and Link Styles */
+.action-button-container {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f5f5f5;
+}
+.action-link {
+    background-color: #1a73e8;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.3s, transform 0.2s;
+    display: inline-block;
+}
+.action-link:hover {
+    background-color: #155ab6;
+    transform: translateY(-2px);
+}
+.submit-button {
+    display: block;
+    width: 100%;
+    background-color: #b71c1c;
+    color: white;
+    padding: 15px;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 2rem;
+}
+.submit-button:hover {
+    background-color: #8e1616;
+}
+/* Responsive Design for smaller screens */
+@media (max-width: 900px) {
+  .menu-grid {
+    grid-template-columns: 1fr;
+  }
+}
