@@ -79,7 +79,6 @@ footer {
   color: #b71c1c;
   font-weight: bold;
 }
-/* Order and Checkout Page Styles */
 .content-wrapper {
     max-width: 800px;
     margin: 0 auto;
@@ -125,15 +124,6 @@ footer {
     height: 150px;
     resize: vertical;
 }
-.instructions {
-    background-color: #fff3cd;
-    border-left: 5px solid #ffeeba;
-    color: #856404;
-    padding: 1rem;
-    border-radius: 4px;
-    margin: 2rem 0;
-}
-/* Button and Link Styles */
 .action-button-container {
     text-align: center;
     padding: 2rem;
