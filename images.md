@@ -40,19 +40,19 @@
 
 ### Pizza
 - [Margherita](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0HbRY0SsECXq3XHqjXUBw3CqK1VfE5PX1w&s)
-- [Four Cheese]()
-- [Pepperoni / Veggie Delight]  
+- [Four Cheese](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaWZdcz3oDba5s_8ECt64_EGSiVATmiJE5zA&s)
+- [Pepperoni / Veggie Delight](https://www.perfectitaliano.com.au/content/dam/perfectitaliano-aus/recipe/pepperoni_pizza_standard.jpg)
 
 ---
 
 ## Chinese Cuisine
 
 ### Starters
-- [Spring Rolls (Veg / Chicken)]  
-- [Chilli Paneer / Chilli Chicken]  
-- [Hot & Sour Soup]  
+- [Spring Rolls (Veg / Chicken)](https://saltedmint.com/wp-content/uploads/2024/01/Vegetable-Spring-Rolls-4-500x375.jpg)  
+- [Chilli Paneer / Chilli Chicken](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLL7ELazVbZPsu6A-qDZrMCtq9h6ZR8iMGMA&s)
+- [Hot & Sour Soup](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWLteqwORRI83yeM-ti5b_fRivux7XQW-C8w&s)
 
 ### Main Course
-- [Hakka Noodles (Veg / Chicken)]  
-- [Schezwan Fried Rice]  
-- [Kung Pao Chicken]  
+- [Hakka Noodles (Veg / Chicken)](https://www.teaforturmeric.com/wp-content/uploads/2023/06/Hakka-Noodles-13-1.jpg)
+- [Schezwan Fried Rice](https://www.kannammacooks.com/wp-content/uploads/schezwan-veg-fried-rice-1.jpg)
+- [Kung Pao Chicken](https://www.thetravelpalate.com/wp-content/uploads/2024/01/panda-express-kung-pao-chicken-recipe-14.jpg)
