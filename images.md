@@ -11,8 +11,8 @@
 - [Butter Chicken](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYU7bkgqtucD8ngwFxlIK-rDPzBR4k-ZIkTA&s)
 - [Dal Makhani](https://www.seriouseats.com/thmb/g451i0gugYOmw4IrMv5o40aW8po=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241121-SEA-DalMakhani-QiAi-Hero4-39-52dfa719549248f88ef8c536411962b8.jpg)
 - [Rogan Josh](https://headbangerskitchen.com/wp-content/uploads/2024/08/ROGANJOSH-H2.jpg)
-- [Kadhai Paneer]()
-- [Chole Bhature](https://www.chefkunalkapur.com/wp-content/uploads/2021/11/3F3A1876-copy-scaled.jpg?v=1636356843)
+- [Kadhai Paneer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvg8jprioq9xa1P5qSgzM2dOkt2PiK-3JrLg&s)
+- [Chole Bhature](https://thewhiskaddict.com/wp-content/uploads/2024/08/IMG_0727-4-scaled.jpg)
 
 ---
 
