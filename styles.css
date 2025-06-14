@@ -25,64 +25,73 @@ footer {
   font-size: 0.9rem;
   margin-top: 2rem;
 }
-/* Main Menu Layout (index.html) */
-.menu-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
-  padding: 2rem;
-  max-width: 1200px;
-  margin: 0 auto;
+/* Main Content Layout */
+.content-wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
 }
 .menu-section {
-  padding: 1.5rem;
-  border: 1px solid #ddd;
-  border-radius: 8px;
   background-color: #fff;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  margin-bottom: 3rem;
 }
 .menu-section h2 {
   border-left: 8px solid #b71c1c;
   padding-left: 12px;
   margin-top: 0;
   margin-bottom: 2rem;
+  font-size: 2rem;
   color: #444;
 }
-/* Rectangular Box for Dish Categories */
+/* Dish Category Styles */
 .dish-category {
-  background-color: #f9f9f9;
-  border: 1px solid #eee;
-  border-radius: 8px;
-  padding: 1rem 1.5rem;
   margin-bottom: 1.5rem;
 }
 .dish-category h3 {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
   color: #b71c1c;
   border-bottom: 2px solid #e0e0e0;
   padding-bottom: 0.5rem;
 }
-.dish-category ul {
-  list-style: none;
-  padding-left: 0;
+/* Visual Dish Card Grid */
+.dish-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 25px;
 }
-.dish-category li {
-  margin-bottom: 0.5rem;
-  padding-left: 1rem;
-  position: relative;
+.dish-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
 }
-.dish-category li::before {
-  content: "•";
-  position: absolute;
-  left: 0;
-  color: #b71c1c;
-  font-weight: bold;
+.dish-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12);
 }
-.content-wrapper {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 2rem;
+.dish-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover; /* Prevents image stretching */
+}
+.dish-name {
+  padding: 15px;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 600;
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* Order Page List Styles */
+.order-list {
+    list-style-type: none;
+    padding: 0;
 }
 .order-list li {
     display: flex;
@@ -124,6 +133,7 @@ footer {
     height: 150px;
     resize: vertical;
 }
+/* Action Buttons */
 .action-button-container {
     text-align: center;
     padding: 2rem;
@@ -162,7 +172,15 @@ footer {
 }
 /* Responsive Design for smaller screens */
 @media (max-width: 900px) {
-  .menu-grid {
+  .dish-grid {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+}
+@media (max-width: 600px) {
+  .dish-grid {
     grid-template-columns: 1fr;
+  }
+  .content-wrapper {
+    padding: 1rem;
   }
 }
