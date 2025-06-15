@@ -26,6 +26,24 @@ footer {
   margin-top: 2rem;
 }
 /* Main Content Layout */
+.link-section {
+  background-color: #f4b3b3;
+  text-align: center;
+  border-style: groove;
+  border-color: #000000;
+  border-radius: 2px;
+  padding: 1rem;
+  display: flex;
+}
+.link{
+  <a animation-name: border: 2px;;;
+}
+.col{
+  flex: 1;
+  background-color: aquamarine;
+  padding: 1rem;
+  text-align: center;
+}
 .content-wrapper {
     max-width: 1200px;
     margin: 0 auto;
