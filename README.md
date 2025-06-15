@@ -6,24 +6,17 @@ Welcome to **Global Spice Symphony**, an elegant and responsive restaurant menu 
 
 **[Visit Website](https://cosmicbeast.github.io/resturant-menu/)**
 
----
 
 ## Table of Contents
 
 - [About](#about)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
----
 
 ## About
 
 The **Restaurant Menu** project is a static webpage that simulates an online menu for a multi-cuisine restaurant. It was built as part of a web development learning project and demonstrates the use of responsive design techniques and Bootstrap components.
 
----
 
 ## Features
 
@@ -33,7 +26,6 @@ The **Restaurant Menu** project is a static webpage that simulates an online men
 - **Organized structure for easy scalability**
 - **Order checklist page** to help users review selected items
 
----
 
 ## Tech Stack
 
@@ -42,7 +34,6 @@ The **Restaurant Menu** project is a static webpage that simulates an online men
 - **Bootstrap 5** – Responsive layout and components
 - **JavaScript** *(planned)* – For dynamic interactivity (optional future enhancement)
 
----
 
 ## Screenshots
 
