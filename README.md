@@ -40,4 +40,5 @@ The **Restaurant Menu** project is a static webpage that simulates an online men
 ![homepage](https://github.com/Cosmicbeast/resturant-menu/blob/main/images/homepage.png)
 ![order-page](https://github.com/Cosmicbeast/resturant-menu/blob/main/images/orderpage.png)
 ![checkout-page](https://github.com/Cosmicbeast/resturant-menu/blob/main/images/checkout.png)
-![aboutus-page]()
+![aboutus-page](https://github.com/Cosmicbeast/resturant-menu/blob/main/images/aboutus.png)
+![contactus-page](https://github.com/Cosmicbeast/resturant-menu/blob/main/images/contactus.png)
