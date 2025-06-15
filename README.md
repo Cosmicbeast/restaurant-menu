@@ -4,7 +4,7 @@ Welcome to **Global Spice Symphony**, an elegant and responsive restaurant menu 
 
 ## Live Demo
 
-**[Visit Website](https://cosmicbeast.github.io/resturant-menu/)**
+**[Visit Website](https://cosmicbeast.github.io/restaurant-menu/)**
 
 
 ## Table of Contents
